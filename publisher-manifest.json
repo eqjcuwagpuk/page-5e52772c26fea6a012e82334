@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a907d827791dad4105838ffe",
+  "owner": "eqjcuwagpuk",
+  "repo": "page-5e52772c26fea6a012e82334",
+  "title": "小飞机",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5e52772c26fea6a012e82334",
+      "a": "小飞机",
+      "b": "2027官方最新地址导航",
+      "entity": "小飞机",
+      "brand": "小飞机",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9c6b7e12e5a4e8b8e7a242e300d2fa21dd29e5fe28f22bc9858a855ed7122f33",
+      "content": {
+        "primary_entity": "小飞机",
+        "keyword1": "小飞机",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "在不同设备上选择合适的客户端，再导入订阅即可开始使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求挑选套餐，复制订阅到客户端即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，连上小飞机",
+          "AI_DESCRIPTION": "，小飞机提供基础版、旗舰版和团队版三档选择，月付从 ¥15 起，年付更划算。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备，并带有 IPLC 专线游戏加速优化；团队版每月 1000GB、支持 20 台设备，适合多人共享。每个套餐都提供对应的节点池和流媒体解锁能力，根据设备数量和流量需求即可确定订阅周期。",
+          "AI_FEATURES_INTRO": "了解套餐差异、设备数量和订阅方式，快速找到适合的版本。",
+          "AI_FEATURES_TITLE": "小飞机套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、支持 3 台设备，旗舰版每月 300GB、支持 5 台设备，团队版每月 1000GB、支持 20 台设备，按在线设备数直接匹配。",
+          "AI_FEATURE_TEXT_2": "旗舰版和团队版分别提供 IPLC 专线游戏加速优化与 VIP 专属高带宽节点，全节点原生流媒体解锁让观看体验更顺畅。",
+          "AI_FEATURE_TEXT_3": "月付和年付两种周期可选，年付价格更低；根据预算和使用时长选择订阅方式，随时切换适合的套餐。",
+          "AI_FEATURE_TITLE_1": "套餐按设备分级",
+          "AI_FEATURE_TITLE_2": "节点线路有差异",
+          "AI_FEATURE_TITLE_3": "月付年付灵活选",
+          "AI_GUIDE_INTRO": "从小飞机套餐选择到客户端配置订阅，三步完成使用准备。",
+          "AI_GUIDE_TITLE": "三步开始使用小飞机",
+          "AI_HERO_INTRO": "小飞机提供基础版、旗舰版和团队版三档加速套餐，覆盖 3 台到 20 台设备同时在线，月付 ¥15 起，年付更实惠。选择套餐后按设备类型安装客户端并导入订阅，即可在不同设备上使用对应的节点与流量。",
+          "AI_HERO_SUBTITLE": "多档套餐灵活选择，适配多设备",
+          "AI_HIGHLIGHT_1": "三档套餐，按设备数选版本",
+          "AI_HIGHLIGHT_2": "月付年付灵活，年付更划算",
+          "AI_HIGHLIGHT_3": "IPLC 专线，游戏加速优化",
+          "AI_PLANS_INTRO": "基础版适合 3 台以内设备，旗舰版覆盖 5 台设备并带有专线优化，团队版支持 20 台设备与专属节点。对比流量与设备数量即可确定版本。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据在线设备数量和每月流量需求，在基础版、旗舰版和团队版中确定一个版本。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量、节点类型和订阅周期，确认与自己的设备情况匹配。",
+          "AI_STEP_TEXT_3": "按照对应客户端的文档导入订阅，完成配置后在设备上启用小飞机。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "小飞机套餐随心选",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。可根据日常流量与同时在线设备数量选择。",
+          "AI_FAQ_ANSWER_2": "小飞机节点覆盖常见地区，旗舰版提供 IPLC 专线节点用于游戏加速，团队版配备 VIP 高带宽节点。实际速度受本地网络与线路负载影响。",
+          "AI_FAQ_ANSWER_3": "三档套餐均支持年付，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。年付相比月付更划算，适合长期使用的用户。",
+          "AI_FAQ_ANSWER_4": "先确认设备数量与每月流量需求，再看是否需要 IPLC 专线或多人协作功能。设备多、流量大可选团队版，单人或小家庭可选基础版或旗舰版。",
+          "AI_FAQ_ANSWER_5": "在客户端中导入订阅链接即可使用，具体导入方式可参照对应客户端的说明文档。建议先在小飞机账号中确认订阅信息，再完成客户端配置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "小飞机三档套餐分别适合什么情况？",
+          "AI_FAQ_QUESTION_2": "小飞机的线路速度表现如何？",
+          "AI_FAQ_QUESTION_3": "小飞机支持年付吗？",
+          "AI_FAQ_QUESTION_4": "如何选择适合自己的套餐？",
+          "AI_FAQ_QUESTION_5": "订阅后如何在客户端使用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "guofx.cn",
+    "host": "guofx.cn"
+  },
+  "file_hashes": {
+    "index.html": "47568d9efe5fb80e32d053bb2aef904fcb945d2c49f87bb9b8c4a51dcf4b2d95",
+    "sitemap.xml": "06d05981a32efbb771f2be7d0d0ae53890e1307a7b4c6a46b155939c68ce510f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ba059a431faa5126289e98ac98a51b0978b7a2bdfbc2e0165343455e265a36ba",
+    "robots.txt": "56f6e1a57711453736f539600b2da763375f51886973e7c13c81ae63664313bd",
+    "a318885f7d179e81a8c92bc1e0fada58.txt": "7790f520cf0451a2fa1802c4b73abc27dd43002dc790c44690c4599d02078e7e"
+  },
+  "revision": "b0ce324841ed54ccfe1e84efb13c8d1e8cae41fcbc082f3cdde4889d355f8ad0"
+}
